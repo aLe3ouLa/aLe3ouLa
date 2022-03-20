@@ -1,16 +1,25 @@
-### Hi there 👋
 
-<!--
-**aLe3ouLa/aLe3ouLa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello! I'm Alexandra. 👋
 
-Here are some ideas to get you started:
+<p align="left">
+<a href="https://www.linkedin.com/in/alexandra-barka-57075361/">
+<img src="https://img.shields.io/badge/-LinkedIn-%233781da" alt="LinkedIn"/></a> 
+<a href="https://codepen.io/ale3oula-the-styleful">
+<img src="https://img.shields.io/badge/-Codepen-%23ff5798" alt="Codepen"/></a> 
+<a href="https://www.twitter.com/aLe3ouLaa">
+<img src="https://img.shields.io/badge/-Twitter-%231DA1F2" alt="Twitter" /></a> 
+<a href="https://www.instagram.com/alexa.codes">
+<img src="https://img.shields.io/badge/-Instagram-%23eb13a5" alt="Instagram" /></a> 
+<a href="https://stackoverflow.com/users/10112268/ale3oula">
+<img src="https://img.shields.io/badge/-Stack%20Overflow-%23f48024" alt="Stack Overflow" /></a> 
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 💻 Frontend engineer specializing in [JavaScript](https://www.javascript.com/), [Typescript](https://www.typescriptlang.org/) & [ReactJS](https://reactjs.org/).
+* 🍿 Currently at [Warnermedia](https://www.warnermedia.com/emea).
+* ✏️ Sometimes publish articles in [dev.to](https://dev.to/ale3oula).
+* 🇬🇷 From [Athens, GR](https://www.visitgreece.gr/mainland/attica/athens/), but presently living in [Amsterdam, NL](https://www.amsterdam.nl/).
+* 😁 Nice to meet you!
+
+## 𝗦𝘁𝗮𝘁𝘀
+
+![ale3oula's github stats](https://github-readme-stats.vercel.app/api?username=aLe3ouLa&show_icons=true&theme=dracula)
