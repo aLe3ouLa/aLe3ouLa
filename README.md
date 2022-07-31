@@ -17,7 +17,7 @@
 * 💻 Frontend engineer specializing in [JavaScript](https://www.javascript.com/), [Typescript](https://www.typescriptlang.org/) & [ReactJS](https://reactjs.org/).
 * 🍿 Currently at [Warnermedia](https://www.warnermedia.com/emea).
 * ✏️ Sometimes publish articles in [dev.to](https://dev.to/ale3oula).
-* 🇬🇷 From [Athens, GR](https://www.visitgreece.gr/mainland/attica/athens/), but presently living in [Amsterdam, NL](https://www.amsterdam.nl/).
+* 🇬🇷 From [Athens, GR](https://www.visitgreece.gr/mainland/attica/athens/), but currently living in [Amsterdam, NL](https://www.amsterdam.nl/).
 * 😁 Nice to meet you!
 
 ## 𝗦𝘁𝗮𝘁𝘀
