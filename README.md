@@ -15,8 +15,8 @@
 </p>
 
 * 💻 Frontend engineer specializing in [JavaScript](https://www.javascript.com/), [Typescript](https://www.typescriptlang.org/) & [ReactJS](https://reactjs.org/).
-* 🎵 Currently working at [Spotify](https://www.spotify.com).
-* 🍿 Ex-[Warner Bros. Discovery](https://www.warnermedia.com/emea),  Ex-[Messagebird](https://www.messagebird.com).
+* ✈️ Currently working at [Mews](https://www.mews.com).
+* 🎵 [Ex-Spotify](https://www.spotify.com), Ex-[Warner Bros. Discovery](https://www.warnermedia.com/emea),  Ex-[Messagebird](https://www.messagebird.com).
 * ✏️ Sometimes publish articles in [dev.to](https://dev.to/ale3oula).
 * 🇬🇷 From [Athens, GR](https://www.visitgreece.gr/mainland/attica/athens/), but currently living in [Amsterdam, NL](https://www.amsterdam.nl/).
 * 😁 Nice to e-meet you!
