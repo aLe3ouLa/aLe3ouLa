@@ -21,9 +21,6 @@
 * 🇬🇷 From [Athens, GR](https://www.visitgreece.gr/mainland/attica/athens/), but currently living in [Amsterdam, NL](https://www.amsterdam.nl/).
 * 😁 Outside coding I photograph, dance and travel.
 
-## 𝗦𝘁𝗮𝘁𝘀
-
-![ale3oula's github stats](https://github-readme-stats.vercel.app/api?username=aLe3ouLa&show_icons=true&theme=dracula)
 
 <div> <img src="https://komarev.com/ghpvc/?username=aLe3ouLa&label=Profile%20views&color=0175b6&style=flat" alt="aLe3ouLa" /> </div>
 
