@@ -6,9 +6,7 @@
 <img src="https://img.shields.io/badge/-LinkedIn-%233781da" alt="LinkedIn"/></a> 
 <a href="https://codepen.io/ale3oula-the-styleful">
 <img src="https://img.shields.io/badge/-Codepen-%23ff5798" alt="Codepen"/></a> 
-<a href="https://www.twitter.com/aLe3ouLaa">
-<img src="https://img.shields.io/badge/-Twitter-%231DA1F2" alt="Twitter" /></a> 
-<a href="https://www.instagram.com/alexa.codes">
+<a href="https://www.instagram.com/the.coding.diaries">
 <img src="https://img.shields.io/badge/-Instagram-%23eb13a5" alt="Instagram" /></a> 
 <a href="https://stackoverflow.com/users/10112268/ale3oula">
 <img src="https://img.shields.io/badge/-Stack%20Overflow-%23f48024" alt="Stack Overflow" /></a> 
